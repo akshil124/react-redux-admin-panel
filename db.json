@@ -1,0 +1,336 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "json-server",
+      "lastName": "json-server",
+      "email": "typicode"
+    },
+    {
+      "languages": [
+        "english",
+        "gujarati",
+        "hindi"
+      ],
+      "firstName": "akshil",
+      "lastName": "malani",
+      "date": "2004-07-12",
+      "gender": "male",
+      "email": "akshilmalani182@gmail.com",
+      "number": "9313226538",
+      "password": "ak.malani@182",
+      "id": 2
+    },
+    {
+      "languages": [
+        "english"
+      ],
+      "firstName": "asdfghj",
+      "lastName": "asdfghj",
+      "date": "5454-04-08",
+      "gender": "female",
+      "email": "asdfghj@gamil.com",
+      "number": "741852960",
+      "password": "ak.malani@182",
+      "id": 3
+    },
+    {
+      "languages": [
+        "english",
+        "gujarati",
+        "hindi"
+      ],
+      "firstName": "assad",
+      "lastName": "sdfsd",
+      "date": "2022-10-04",
+      "gender": "female",
+      "email": "asdfghj",
+      "number": "7410852963",
+      "password": "ak.malani@182",
+      "id": 4
+    },
+    {
+      "languages": [
+        "english",
+        "gujarati",
+        "hindi"
+      ],
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "ak@gmail.com",
+      "password": "123456",
+      "date": "2022-10-04",
+      "number": "7410852963",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "languages": [
+        "english"
+      ],
+      "firstName": "asdf",
+      "lastName": "asdf",
+      "email": "akm@gmail.com",
+      "password": "123456",
+      "date": "2022-10-04",
+      "number": "7410852963",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "akshilmalani182@gmail.com",
+      "password": "Akmalni@12",
+      "date": "2022-10-05",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 7
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "sdfsd",
+      "email": "ak@gmail.com",
+      "password": "Akmalani@12",
+      "date": "2022-10-08",
+      "number": "7410852963",
+      "gender": "other",
+      "languages": [
+        "english"
+      ],
+      "id": 8
+    },
+    {
+      "firstName": "ayush",
+      "lastName": "hirapara",
+      "email": "test@gamil.com",
+      "password": "1234",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "male",
+      "languages": [
+        "gujarati"
+      ],
+      "id": 9
+    },
+    {
+      "firstName": "xyz",
+      "lastName": "efg",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "date": "2022-10-06",
+      "number": "7896540123",
+      "gender": "female",
+      "languages": [
+        "english",
+        "gujarati",
+        "hindi"
+      ],
+      "id": 10
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "akshilmalani18@gmail.com",
+      "password": "12",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "male",
+      "languages": [
+        "english"
+      ],
+      "id": 11
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "akshilmalani1@gmail.com",
+      "password": "12",
+      "date": "2022-10-06",
+      "number": "1234567899",
+      "gender": "male",
+      "languages": [
+        "english"
+      ],
+      "id": 12
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "akshil@gmail.com",
+      "password": "12",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "male",
+      "languages": [
+        "gujarati"
+      ],
+      "id": 13
+    },
+    {
+      "firstName": "akshil",
+      "lastName": "malani",
+      "email": "asj@gamil.com",
+      "password": "as",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "male",
+      "languages": [
+        "english"
+      ],
+      "id": 14
+    },
+    {
+      "firstName": "axs",
+      "lastName": "ajx",
+      "email": "ajx@gmail.com",
+      "password": "12",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 15
+    },
+    {
+      "firstName": "axs",
+      "lastName": "ajx",
+      "email": "aj@gmail.com",
+      "password": "12",
+      "date": "2022-10-06",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 16
+    },
+    {
+      "firstName": "sdv",
+      "lastName": "fbdfz",
+      "email": "dffv@dv.sf",
+      "password": "fv",
+      "date": "2022-10-07",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 17
+    },
+    {
+      "firstName": "erg",
+      "lastName": "fgb",
+      "email": "asdfghjzgb@dfb.dfv",
+      "password": "zffb",
+      "date": "2022-10-07",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 18
+    },
+    {
+      "firstName": "saeFb",
+      "lastName": "gfbgx",
+      "email": "fgbz@gamil.com",
+      "password": "afd bdxzv",
+      "date": "2022-10-07",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 19
+    },
+    {
+      "firstName": "fvdf",
+      "lastName": "zdvsxdv",
+      "email": "zdvsv@gfb.zb",
+      "password": "dfFfv",
+      "date": "2022-10-07",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 20
+    },
+    {
+      "firstName": "asdfg",
+      "lastName": "asdfg",
+      "email": "asdf@gamil.com",
+      "password": "asdf",
+      "date": "2022-10-08",
+      "number": "7410852963",
+      "gender": "female",
+      "languages": [
+        "english"
+      ],
+      "id": 21
+    }
+  ],
+  "blogs": [
+    {
+      "blogtitle": "test-blog1111",
+      "blogcontent": "123456798",
+      "author": "ayush hirapara",
+      "userid": 9,
+      "id": 5
+    },
+    {
+      "blogtitle": "xdxvz",
+      "blogcontent": "asdfgh",
+      "author": "ayush hirapara",
+      "userid": 9,
+      "id": 6
+    },
+    {
+      "blogtitle": "abcdefg",
+      "blogcontent": "as",
+      "author": "ayush hirapara",
+      "userid": 9,
+      "id": 7
+    },
+    {
+      "blogtitle": "test-blog111122",
+      "blogcontent": "546515",
+      "author": "ayush hirapara",
+      "userid": 9,
+      "id": 8
+    },
+    {
+      "blogtitle": "test-blog",
+      "blogcontent": "8754651321",
+      "author": "akshil malani",
+      "userid": 2,
+      "id": 9
+    },
+    {
+      "blogtitle": "test-blog",
+      "blogcontent": "12",
+      "author": "akshil malani",
+      "userid": 2,
+      "id": 10
+    },
+    {
+      "blogtitle": "test-blog",
+      "blogcontent": "akshil",
+      "author": "akshil malani",
+      "userid": 2,
+      "id": 11
+    },
+    {
+      "blogtitle": "test-blog",
+      "blogcontent": "1234",
+      "author": "akshil malani",
+      "userid": 2,
+      "id": 12
+    }
+  ]
+}
